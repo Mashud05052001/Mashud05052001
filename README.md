@@ -33,6 +33,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,mongodb,postgresql,c,cpp,python,git" alt="Languages and Tools"/>
 </p>
 
+<!--
 <h3 align="left">⚡ GitHub Stats:</h3>
 <div align="center">
    <span align="center">
@@ -49,4 +50,5 @@
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mashud05052001&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 400px;" />
 </div>
+-->
 
