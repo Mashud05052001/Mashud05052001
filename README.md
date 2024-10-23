@@ -1,16 +1,52 @@
-## Hi there 👋
+<h2 ">
+   <h2 style="font-family: 'Righteous'; font-size: 50px;">Hi There! 👋</h2>
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=600&height=70&duration=4000&pause=2000&lines=I'm+Mashudur+Rahman+Mahi!+;A+Full-Stack+Developer+From+BALGLADESH" />
+</h2>
 
-<!--
-**Mashud05052001/Mashud05052001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</h1>
 
-Here are some ideas to get you started:
+🔭 **Web Developer**  : A passionate and dedicated full-stack web developer from **Bangladesh**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education**  : Currently studying at **Sylhet Engineering College** in Sylhet.
+
+💻 **Skills**  : Continuously honing my skills and exploring new technologies.
+
+🌍 **Experience**  : Experienced in both front-end and back-end development.
+
+✨ **Design Philosophy**  : Crafting solutions that balance functionality and aesthetics for seamless user experiences.
+
+📫 **Contact**: Reach out at **masudmahi0505@gmail.com**
+
+<!-- 📫 **Contact**: Reach out at **[masudmahi0505@gmail.com](mailto:masudmahi0505@gmail.com)** -->
+
+
+ ## 💬 Connect with me
+<div align="left">
+  
+  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011564174412) 
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mashudur-rahman-mahi-311263244)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-a303e7?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mashud_mahi)
+</div>
+
+## 💻 Languages - Frameworks - Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,mongodb,postgresql,c,cpp,python,git" alt="Languages and Tools"/>
+</p>
+
+<h3 align="left">⚡ GitHub Stats:</h3>
+<div align="center">
+   <span align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=mashud05052001&show_icons=true&locale=en" alt="GitHub Stats" />
+   </span> 
+   &nbsp;&nbsp;
+   <span align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashud05052001" alt="GitHub Streak Stats"/>
+   </span>
+</div>
+
+
+<h3 align="left">🏆 Recent Contributions:</h3>
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mashud05052001&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 400px;" />
+</div>
+
