@@ -1,6 +1,6 @@
 <h2 ">
    <h2 style="font-family: 'Righteous'; font-size: 50px;">Hi There! 👋</h2>
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=600&height=70&duration=4000&pause=2000&lines=I'm+Mashudur+Rahman+Mahi!+;A+Full-Stack+Developer+From+BALGLADESH" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=800&height=70&duration=4000&pause=2000&lines=I'm+Mashudur+Rahman+Mahi!+;A+Full-Stack+Developer+From+BALGLADESH" />
 </h2>
 
 </h1>
