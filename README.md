@@ -1,19 +1,18 @@
+<!-- Visitor badge -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Mashud05052001.Mashud05052001&left_color=%231877f2&right_color=%23a303e7" alt="Visitor badge" align="right"/>
 <div align="center">
   <h2>Hi There! 👋</h2>
   <!-- Typing animation -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00F0FF&center=true&vCenter=true&width=800&height=70&duration=4000&pause=2000&lines=I'm+Mashudur+Rahman+Mahi!+;A+Full-Stack+Developer+From+BANGLADESH" alt="Typing animation" />
 
-  <!-- Visitor badge -->
   
 
-  <!-- Animated gif 
-  -->
 </div>
 
 ---
 
-  <img align="right" top="20" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh1bzhhMG5vZWptdm50ZnY4bWZsYjZ1cmtoMndhZTlodmdhd3hhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="230" alt="Animated gif" />
+  <!-- Animated gif-->
+  <img align="right" top="20" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg4bWZ4eDZtcWwxaHUzbmI1dXFnaTZ2Z3U0bGR5dzE4ZGZoNnQ2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cIn5fTcjnKhStIeAef/giphy.gif" width="230" alt="Animated gif" />
 
 🔭 **Web Developer**: A passionate and dedicated full-stack web developer from **Bangladesh**.
 
