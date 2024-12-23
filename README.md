@@ -1,6 +1,6 @@
 <h2 ">
    <h2 style="font-family: 'Righteous'; font-size: 50px;">Hi There! 👋</h2>
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=800&height=70&duration=4000&pause=2000&lines=I'm+Mashudur+Rahman+Mahi!+;A+Full-Stack+Developer+From+BALGLADESH" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00F0FF&center=false&vCenter=true&width=800&height=70&duration=4000&pause=2000&lines=I'm+Mashudur+Rahman+Mahi!+;A+Full-Stack+Developer+From+BALGLADESH" />
 </h2>
 
 </h1>
@@ -33,6 +33,18 @@
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,mongodb,postgresql,prisma,c,cpp,python,git" alt="Languages and Tools"/>
    </a>
+</p>
+
+#### Status
+
+<p align="center">
+   <img 
+    width="60%" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Mashud05052001&theme=react&hide_border=true&background=0D1117&stroke=1A1A2E&fire=FF5733&sideLabels=00F0FF&currStreakNum=FF5733&ring=FFC300&currStreakLabel=FFC300&sideNums=00F0FF" 
+/>
+
+
+
 </p>
 
 <!--
