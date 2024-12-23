@@ -1,7 +1,10 @@
-<h2 ">
+<div>
    <h2 style="font-family: 'Righteous'; font-size: 50px;">Hi There! 👋</h2>
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00F0FF&center=false&vCenter=true&width=800&height=70&duration=4000&pause=2000&lines=I'm+Mashudur+Rahman+Mahi!+;A+Full-Stack+Developer+From+BALGLADESH" />
-</h2>
+   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mashud05052001.Mashud05052001&left_color=%231877f2&right_color=%23a303e7" />
+
+
+</div>
 
 </h1>
 
@@ -30,12 +33,15 @@
 
 ## 💻 Languages - Frameworks - Tools
 <p align="center">
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,mongodb,postgresql,prisma,c,cpp,python,git" alt="Languages and Tools"/>
-   </a>
+<br/>
+  <div align="center">
+     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,postgresql,prisma" alt="Languages and Tools"/> <br/>
+     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,c,cpp,python,git" alt="Languages and Tools"/>
+   </div>
 </p>
 
-#### Status
+
+## 🌟 GitHub Stats
 
 <p align="center">
    <img 
@@ -59,10 +65,5 @@
    </span>
 </div>
 
-
-<h3 align="left">🏆 Recent Contributions:</h3>
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mashud05052001&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 400px;" />
-</div>
 -->
 
