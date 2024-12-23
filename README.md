@@ -22,6 +22,7 @@
 
 📫 **Contact**: Reach out at <a href="mailto:masudmahi0505@gmail.com" target="_blank" rel="noopener noreferrer">***masudmahi0505@gmail.com***</a>
 
+<br/>
 
  ## 💬 Connect with me
 <div align="left">
@@ -30,6 +31,8 @@
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mashudur-rahman-mahi-311263244)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-a303e7?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mashud_mahi)
 </div>
+
+<br/>
 
 ## 💻 Languages - Frameworks - Tools
 <p align="center">
@@ -40,8 +43,9 @@
    </div>
 </p>
 
+<br/>
 
-## 🌟 GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats
 
 <p align="center">
    <img 
