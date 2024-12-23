@@ -29,8 +29,10 @@
 </div>
 
 ## 💻 Languages - Frameworks - Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,mongodb,postgresql,c,cpp,python,git" alt="Languages and Tools"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,mongodb,postgresql,prisma,c,cpp,python,git" alt="Languages and Tools"/>
+   </a>
 </p>
 
 <!--
