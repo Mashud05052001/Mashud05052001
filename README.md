@@ -15,9 +15,9 @@
 
 ✨ **Design Philosophy**  : Crafting solutions that balance functionality and aesthetics for seamless user experiences.
 
-📫 **Contact**: Reach out at **masudmahi0505@gmail.com**
+<!--📫 **Contact**: Reach out at **masudmahi0505@gmail.com** -->
 
-<!-- 📫 **Contact**: Reach out at **[masudmahi0505@gmail.com](mailto:masudmahi0505@gmail.com)** -->
+📫 **Contact**: Reach out at <a href="mailto:masudmahi0505@gmail.com" target="_blank" rel="noopener noreferrer">***masudmahi0505@gmail.com***</a>
 
 
  ## 💬 Connect with me
